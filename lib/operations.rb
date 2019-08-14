@@ -1,4 +1,7 @@
-def unsafe?(speed)
+def unsafe = 80
+  unsafe => 80 ? 
+
+  
 
 end
 
